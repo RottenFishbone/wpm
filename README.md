@@ -18,6 +18,9 @@ cd wpm
 cargo run --release
 ```
 
+`dict.txt` holds the list of words, if the binary is moved, this will need to be in the folder EXECUTING it.
+This will be fixed in the future.
+
 ## Author
 Jayden Dumouchel -- jdumouch@ualberta | rottenfishbone@pm.me
 
