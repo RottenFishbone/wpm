@@ -22,7 +22,7 @@ cargo run --release
 This will be fixed in the future.
 
 ## Author
-Jayden Dumouchel -- jdumouch@ualberta | rottenfishbone@pm.me
+Jayden Dumouchel -- jdumouch@ualberta.ca | rottenfishbone@pm.me
 
 ### Notes
 At the moment this project is hard paused, I will likely pick it up again in the future when my schooling is done.
